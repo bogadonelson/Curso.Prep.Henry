@@ -11,7 +11,7 @@ const nuevoNum = 22;
 >>>>>>> d24bbe99defc13ff83db8045326376488406f127
 
 // Crea una variable booleana:
-const nuevoBool = true;
+const nuevoBool = false;
 
 // Resuelve el siguiente problema matemático:
 const nuevaResta = 10 - 5 === 5;
